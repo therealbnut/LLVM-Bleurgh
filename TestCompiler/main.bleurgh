@@ -1,0 +1,4 @@
+function bleurgh_main()
+{
+    1234 + 567 * 789
+}
